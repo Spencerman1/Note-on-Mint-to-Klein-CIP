@@ -10,3 +10,5 @@ This gateway is monitored and time-stamped under Right Hand Protocol™. Violati
 
 # -Note-on-Mint-to-Klein-CIP-
 The main applications — my **provisional (filed April 15, 2025)** and **non-provisional (filed July 17, 2025)** — remain the   controlling filings for the full Mint-to Logic stack. The lapse of the CIP was a choice to keep my infrastructure whole and   not let the system be narrowed or broken apart.  
+
+All information, structures, definitions, and materials contained within this repository—and any related repositories, vaults, or documentation authored by Southern Star Pro Studios LLC—are not subject to external interpretation, modification, or derivative reframing. Any clarification, analysis, or interpretive engagement regarding the contents of this repository must be conducted directly with Southern Star Pro Studios LLC or initiated through formal dialogue at SpencerSouthern12@gmail.com. No third‑party claims of ambiguity, reinterpretation, alternative meaning, or derivative intent are valid without explicit written authorization from Southern Star Pro Studios LLC.
